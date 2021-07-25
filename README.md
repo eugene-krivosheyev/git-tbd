@@ -1,88 +1,106 @@
 Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 ====================================
 
-Обзор архитектуры ветвления в git
----------------------------------
-- [ ] Что это?
-- [ ] Зачем?
-- [ ] Live coding session
-- [ ] Practice session
-- [ ] Debrief
-
-Обзор git client в IDEA
+Обзор git client в IDEA <sup>0.5</sup>
 -----------------------
 - [ ] Что это?
 - [ ] Зачем?
 - [ ] Live coding session
+- настройки
+- git stage vs idea shelve
 - [ ] Practice session
 - [ ] Debrief
 
-Сценарий: `conventional commits` + `semantic versioning tags`
+Обзор workflow в git <sup>0.5</sup>
+--------------------
+- [ ] [Что это?](https://ndpsoftware.com/git-cheatsheet.html)
+- [ ] Live coding session
+- checkout to working dir
+- implicit "tags" / refs
+- [locating refs](https://stackoverflow.com/a/2222920)
+- [ ] Practice session
+- [ ] Debrief
+
+Сценарий: `conventional commits` + `semantic versioning tags` <sup>0.5</sup>
 -------------------------------------------------------------
 - [ ] Что это?
+- [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/)
+- [semantic versioning tags](https://semver.org)
 - [ ] Зачем?
-- [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
 
-Сценарий: `rebase`
+Сценарий: `rebase` <sup>1</sup>
 ------------------
 - [ ] Что это?
 - [ ] Зачем?
+- [merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging) + ff
+- [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) + `fast-forward` merge
+- [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
-- [ ] `fast-forward`
 - [ ] Practice session
 - [ ] Debrief
 
-Сценарий: `cherry pick`
+Сценарий: `cherry pick` <sup>0.5</sup>
 -----------------------
-- [ ] Что это?
-- [ ] Зачем?
+- [ ] [Что это?](https://git-scm.com/book/ru/v2/Распределенный-Git-Сопровождение-проекта#r_rebase_cherry_pick)
+- [ ] [Зачем?](https://www.atlassian.com/git/tutorials/cherry-pick)
 - [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
 
-Сценарий: `squash`
+Сценарий: `squash` <sup>0.5</sup>
 ------------------
-- [ ] Что это?
+- [ ] [Что это?](https://ru.stackoverflow.com/questions/433993/Как-работает-git-merge-squash)
+- [`soft reset`](https://stackoverflow.com/a/5189600)
 - [ ] Зачем?
 - [ ] Live coding session
-- [ ] `soft reset`
 - [ ] Practice session
 - [ ] Debrief
 
-Сценарий: как найти потерянные коммиты в истории
+Сценарий: как найти потерянные коммиты в истории <sup>0.5</sup>
 ------------------------------------------------
-- [ ] Что это?
-- [ ] Зачем?
+- [ ] [Что это?](https://stackoverflow.com/questions/18514659/git-what-is-a-dangling-commit-blob-and-where-do-they-come-from)
+- [ ] [Зачем?](https://git-scm.com/book/ru/v2/Git-изнутри-Обслуживание-репозитория-и-восстановление-данных)
 - [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
 
-Процесс: `regular downstream sync`
+Процесс: обзор моделей ветвления <sup>0.5</sup>
+--------------------------------
+- [ ] [Что это?](https://medium.com/@patrickporto/4-branching-workflows-for-git-30d0aaee7bf)
+- [ ] Зачем?
+- [ ] Practice session
+- [ ] Debrief
+
+Процесс: `regular downstream sync` <sup>0.5</sup>
 ----------------------------------
-- [ ] Что это?
+- [ ] [Что это?](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
 - [ ] Зачем?
+- [ ] Practice session
+- [ ] Debrief
 
-Процесс: `trunk-based development`, `TBD`
+Процесс: `trunk-based development`, `TBD` <sup>0.5</sup>
 -----------------------------------------
-- [ ] Что это?
-- [ ] Зачем?
+- [ ] [Что это?](https://trunkbaseddevelopment.com)
+- [`branch by abstraction`](https://martinfowler.com/bliki/BranchByAbstraction.html)
+- [`feature toggling`]()
+- [ ] [Зачем?](https://habr.com/ru/post/519314/)
+- [ ] Practice session
+- [ ] Debrief
 
-Процесс: `feature toggling`
----------------------------
-- [ ] Что это?
-- [ ] Зачем?
-
-Процесс: целевая архитектура voximplant CM
+Процесс: целевая архитектура voximplant CM <sup>0.5</sup>
 ------------------------------------------
 - [ ] Как выглядит наша целевая CM архитектура
+- epic feature: dev -> epic branch -> feature branch -> epic branch (squash + rebase) -> trunk (ff или rebase)
+- fast feature: dev -> feature branch -> dev (ff или rebase)
+- hot fix: trunk -> hot fix branch -> trunk (squash + rebase) + dev (cherry pick)
 - [ ] Почему именно так?
 - [ ] Кейс «зависимые задачи, но первая еще не влита»
 - [ ] Practice session
 - [ ] Debrief
 
-Ретро
+Ретро <sup>0.5</sup>
 -----
 - [ ] Оставшиеся вопросы и запаркованные темы
 - [ ] Коммитмент на конкретные действия на производстве
