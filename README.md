@@ -18,7 +18,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Live coding session
 - настройки
 - git stage vs idea shelve
-- базовые операции
+- базовые операции: меню и git view
 - hotkeys
 - [ ] Practice session
 - [ ] Debrief
@@ -29,7 +29,6 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Live coding session
 - checkout to working dir
 - implicit "tags" / refs
-- [locating refs](https://stackoverflow.com/a/2222920)
 - [ ] Practice session
 - [паттерны переключения между задачами](https://www.jetbrains.com/help/idea/work-on-several-features-simultaneously.html)
 - [ ] Debrief
@@ -74,8 +73,10 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 
 Сценарий: как найти потерянные коммиты в истории <sup>0.5</sup>
 ------------------------------------------------
-- [ ] [Что это?](https://stackoverflow.com/questions/18514659/git-what-is-a-dangling-commit-blob-and-where-do-they-come-from)
-- [ ] [Зачем?](https://git-scm.com/book/ru/v2/Git-изнутри-Обслуживание-репозитория-и-восстановление-данных)
+- [ ] [Подвисшие/потерянные коммиты и blob](https://stackoverflow.com/questions/18514659/git-what-is-a-dangling-commit-blob-and-where-do-they-come-from)
+- [git gc](https://www.atlassian.com/git/tutorials/git-gc)
+- [как найти](https://stackoverflow.com/questions/10099258/how-can-i-recover-a-lost-commit-in-git)
+- [указатели ссылок](https://stackoverflow.com/questions/26785118/head-vs-head-vs-head-also-known-as-tilde-vs-caret-vs-at-sign) и `git help revisions`
 - [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
