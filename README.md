@@ -53,9 +53,9 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 
 Сценарий: `squash` <sup>0.5</sup>
 ------------------
-- [ ] [Что это?](https://ru.stackoverflow.com/questions/433993/Как-работает-git-merge-squash)
-- [`soft reset`](https://stackoverflow.com/a/5189600)
-- [ ] Зачем?
+- [ ] [Зачем это?](https://softwareengineering.stackexchange.com/questions/263164/why-squash-git-commits-for-pull-requests)
+- [как?](https://www.jetbrains.com/help/idea/edit-project-history.html#squash-commits)
+- [`soft reset`](https://stackoverflow.com/a/5201642)
 - [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
@@ -64,11 +64,13 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 ------------------
 - [ ] Что это?
 - [ ] Зачем?
-- [merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging) + ff
+- [ ] Как можно слить ветки
+- `fast-forward`
+- [merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging)
 - [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) + `fast-forward` merge
-- [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
+- [ ] [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
-- [modifying branch history with IDEA](https://www.jetbrains.com/help/idea/edit-project-history.html)
+- [Interactive rebase with IDEA](https://www.jetbrains.com/help/idea/edit-project-history.html)
 - [ ] Practice session
 - [ ] Debrief
 
