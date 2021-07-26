@@ -21,6 +21,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - базовые операции: меню и git view
 - hotkeys
 - [ ] Practice session
+- [detached head](http://pr0git.blogspot.com/2015/03/git.html) state
 - [ ] Debrief
 
 Обзор workflow в git <sup>0.5</sup>
