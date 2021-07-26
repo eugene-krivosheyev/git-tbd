@@ -50,6 +50,15 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Practice session
 - [ ] Debrief
 
+Сценарий: `squash` <sup>0.5</sup>
+------------------
+- [ ] [Что это?](https://ru.stackoverflow.com/questions/433993/Как-работает-git-merge-squash)
+- [`soft reset`](https://stackoverflow.com/a/5189600)
+- [ ] Зачем?
+- [ ] Live coding session
+- [ ] Practice session
+- [ ] Debrief
+
 Сценарий: `rebase` <sup>1</sup>
 ------------------
 - [ ] Что это?
@@ -59,15 +68,6 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
 - [modifying branch history with IDEA](https://www.jetbrains.com/help/idea/edit-project-history.html)
-- [ ] Practice session
-- [ ] Debrief
-
-Сценарий: `squash` <sup>0.5</sup>
-------------------
-- [ ] [Что это?](https://ru.stackoverflow.com/questions/433993/Как-работает-git-merge-squash)
-- [`soft reset`](https://stackoverflow.com/a/5189600)
-- [ ] Зачем?
-- [ ] Live coding session
 - [ ] Practice session
 - [ ] Debrief
 
