@@ -8,6 +8,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Договоренности (вопросы, перерывы, записи)
 - [ ] Обзор тем
 - [ ] Участники (роль, уровень, проблемы)
+- amend, cherry pick, squash, rebase
 - [ ] Почему сегодня важны практики CM и куда мы двигаемся
 
 Обзор git client в IDEA <sup>0.5</sup>
@@ -17,6 +18,8 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Live coding session
 - настройки
 - git stage vs idea shelve
+- базовые операции
+- hotkeys
 - [ ] Practice session
 - [ ] Debrief
 
