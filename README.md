@@ -19,6 +19,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - implicit "tags" / refs
 - [locating refs](https://stackoverflow.com/a/2222920)
 - [ ] Practice session
+- [паттерны переключения между задачами](https://www.jetbrains.com/help/idea/work-on-several-features-simultaneously.html)
 - [ ] Debrief
 
 Сценарий: `conventional commits` + `semantic versioning tags` <sup>0.5</sup>
@@ -30,6 +31,14 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Practice session
 - [ ] Debrief
 
+Сценарий: `cherry pick` <sup>0.5</sup>
+-----------------------
+- [ ] [Что это?](https://git-scm.com/book/ru/v2/Распределенный-Git-Сопровождение-проекта#r_rebase_cherry_pick)
+- [ ] [Зачем?](https://www.atlassian.com/git/tutorials/cherry-pick)
+- [ ] Live coding session
+- [ ] Practice session
+- [ ] Debrief
+
 Сценарий: `rebase` <sup>1</sup>
 ------------------
 - [ ] Что это?
@@ -38,14 +47,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) + `fast-forward` merge
 - [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
-- [ ] Practice session
-- [ ] Debrief
-
-Сценарий: `cherry pick` <sup>0.5</sup>
------------------------
-- [ ] [Что это?](https://git-scm.com/book/ru/v2/Распределенный-Git-Сопровождение-проекта#r_rebase_cherry_pick)
-- [ ] [Зачем?](https://www.atlassian.com/git/tutorials/cherry-pick)
-- [ ] Live coding session
+- [modifying branch history with IDEA](https://www.jetbrains.com/help/idea/edit-project-history.html)
 - [ ] Practice session
 - [ ] Debrief
 
