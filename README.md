@@ -67,7 +67,9 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] Как можно слить ветки
 - `fast-forward`
 - [merge](https://git-scm.com/book/en/v2/Git-Branching-Basic-Branching-and-Merging#_basic_merging)
-- [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) + `fast-forward` merge
+- [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) 
+- + `fast-forward` merge
+- + [3-arguments surgery](https://qastack.ru/programming/29914052/i-cant-understand-the-behaviour-of-git-rebase-onto)
 - [ ] [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
 - [Rebase with IDEA](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html#rebase-branch)
