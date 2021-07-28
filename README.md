@@ -70,6 +70,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [rebase](https://git-scm.com/book/en/v2/Git-Branching-Rebasing) + `fast-forward` merge
 - [ ] [merge vs rebase](https://www.atlassian.com/ru/git/tutorials/merging-vs-rebasing)
 - [ ] Live coding session
+- [Rebase with IDEA](https://www.jetbrains.com/help/idea/apply-changes-from-one-branch-to-another.html#rebase-branch)
 - [Interactive rebase with IDEA](https://www.jetbrains.com/help/idea/edit-project-history.html)
 - [ ] Practice session
 - [ ] Debrief
