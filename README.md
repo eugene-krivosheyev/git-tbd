@@ -106,7 +106,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 Процесс: `trunk-based development`, `TBD` <sup>0.5</sup>
 -----------------------------------------
 - [ ] [Что это?](https://trunkbaseddevelopment.com)
-- [`branch by abstraction`](https://martinfowler.com/bliki/BranchByAbstraction.html)
+- [`branch by abstraction`](https://www.branchbyabstraction.com) `technique to counter the pressure to create a long-lived branch that would merge “back” later`
 - [`feature toggling`](https://martinfowler.com/articles/feature-toggles.html)
 - [ ] [Зачем?](https://habr.com/ru/post/519314/)
 - [ ] [Но это же больно?](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
