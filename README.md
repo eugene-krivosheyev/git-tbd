@@ -4,6 +4,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 Записи
 ------
 - [26.07](https://us02web.zoom.us/rec/share/Qz0EWQA_hIoNCpP2e70MZ0E2_G31MiAusi0kM0ADA4c1uoyzRikmfz_YA54K2NZ9.ejv_nkvZMEcLXafy)
+- [27.07](https://us02web.zoom.us/rec/share/rgelW7cuVurqX2MHYsTNl-NBRqYEHFOXZZ_NWcWMpyjuL4C_0eJm_12zqG4ytJOq.uriRHjsqNcbdPS1X)
 
 Введение <sup>0.5</sup>
 --------
