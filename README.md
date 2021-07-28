@@ -79,7 +79,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 ------------------------------------------------
 - [ ] [Подвисшие/потерянные коммиты и blob](https://stackoverflow.com/questions/18514659/git-what-is-a-dangling-commit-blob-and-where-do-they-come-from)
 - [git gc](https://www.atlassian.com/git/tutorials/git-gc)
-- [как найти](https://stackoverflow.com/questions/10099258/how-can-i-recover-a-lost-commit-in-git)
+- [как найти](https://stackoverflow.com/questions/10099258/how-can-i-recover-a-lost-commit-in-git) и [починить просто](https://www.ocpsoft.org/tutorials/git/use-reflog-and-cherry-pick-to-restore-lost-commits/)
 - [указатели ссылок](https://stackoverflow.com/questions/26785118/head-vs-head-vs-head-also-known-as-tilde-vs-caret-vs-at-sign) и `git help revisions`
 - [ ] Live coding session
 - [ ] Practice session
