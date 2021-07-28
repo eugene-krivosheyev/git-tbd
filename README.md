@@ -97,8 +97,9 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 
 Процесс: `regular downstream sync` <sup>0.5</sup>
 ----------------------------------
-- [ ] [Что это?](https://www.atlassian.com/git/tutorials/git-forks-and-upstreams)
+- [ ] Что это?
 - [ ] Зачем?
+- [ ] [Как? (для github)](https://medium.com/sweetmeat/how-to-keep-a-downstream-git-repository-current-with-upstream-repository-changes-10b76fad6d97)
 - [ ] Practice session
 - [ ] Debrief
 
@@ -106,7 +107,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 -----------------------------------------
 - [ ] [Что это?](https://trunkbaseddevelopment.com)
 - [`branch by abstraction`](https://martinfowler.com/bliki/BranchByAbstraction.html)
-- [`feature toggling`]()
+- [`feature toggling`](https://martinfowler.com/articles/feature-toggles.html)
 - [ ] [Зачем?](https://habr.com/ru/post/519314/)
 - [ ] Practice session
 - [ ] Debrief
