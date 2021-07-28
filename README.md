@@ -109,6 +109,7 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [`branch by abstraction`](https://martinfowler.com/bliki/BranchByAbstraction.html)
 - [`feature toggling`](https://martinfowler.com/articles/feature-toggles.html)
 - [ ] [Зачем?](https://habr.com/ru/post/519314/)
+- [ ] [Но это же больно?](https://martinfowler.com/bliki/FrequencyReducesDifficulty.html)
 - [ ] Practice session
 - [ ] Debrief
 
