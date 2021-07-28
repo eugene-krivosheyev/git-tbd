@@ -29,7 +29,8 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 - [ ] [Что это?](https://ndpsoftware.com/git-cheatsheet.html)
 - [ ] Live coding session
 - checkout to working dir
-- implicit "tags" / refs
+- implicit "tags" = refs
+- [`soft reset`](https://stackoverflow.com/a/5201642) для squash и расщепления коммита (soft reset + частичный коммит + частичный коммит)
 - [ ] Practice session
 - [паттерны переключения между задачами](https://www.jetbrains.com/help/idea/work-on-several-features-simultaneously.html)
 - [ ] Debrief
