@@ -4,8 +4,9 @@ Git trunk-based-development patterns <sup>8 ак.ч.</sup>
 Записи
 ------
 - [26.07](https://us02web.zoom.us/rec/share/Qz0EWQA_hIoNCpP2e70MZ0E2_G31MiAusi0kM0ADA4c1uoyzRikmfz_YA54K2NZ9.ejv_nkvZMEcLXafy)
-- [27.07](https://us02web.zoom.us/rec/share/rgelW7cuVurqX2MHYsTNl-NBRqYEHFOXZZ_NWcWMpyjuL4C_0eJm_12zqG4ytJOq.uriRHjsqNcbdPS1X)
-- [28.07](https://us02web.zoom.us/rec/share/LpLc3UN7lrx5bm_g9k7C54AQi9ykLZM7wsmW8l_f5K4qfCt3QG5TLW8nIf5Bnhgy.DiZALyd_gW48Epev)
+- [27.07](https://us02web.zoom.us/rec/share/llLQ_S-lftyhtzRzZRIPJvZQC5WmIlU8YRKF2jBSsKpqEGM_mgt5ySeCrPCzPOHf.Ts3mz4EqXd1JdiTI)
+- [28.07](https://us02web.zoom.us/rec/share/CSeabndEij3ZCm9UOiSseu3FuxhQ7nL8HhpTygdPF2u-Z1FPcLboJSM4BeGsAqf0.M-wqGTpV-MxJa1N1)
+- [29.07](https://us02web.zoom.us/rec/share/YNWYg90qbtV2RLbcWc4SENkcu_NNlptZo2aye-rlRMwJlZIsR3WpuDxa58AoRJ0.AM6GJZoeHVwgQLRD)
 
 Введение <sup>0.5</sup>
 --------
